@@ -2,7 +2,7 @@
 A demo that displays how to convert microservices into teamworkers
 
 The code is complete and working
-The readme is a WIPץ
+The readme is a WIP
 
 What's teamworkers?
 ------------
